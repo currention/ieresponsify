@@ -3,7 +3,7 @@ ieresponsify
 
 Requirements:
 
-1. Lo-Dash utility library http://lodash.com/
+Lo-Dash utility library http://lodash.com/
 
 JQuery example:
 
