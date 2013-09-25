@@ -10,6 +10,7 @@ Supported Viewports:
 Requirements:
 
 - JQuery
+- Modernizr http://modernizr.com/
 - Lo-Dash utility library http://lodash.com/
 - Compass Bones responsive framework. Use the compass project file, /css & /scss folder and customize as required.
 
