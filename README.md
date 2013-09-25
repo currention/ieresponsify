@@ -4,7 +4,7 @@ ieresponsify
 Requirements:
 
 - Lo-Dash utility library http://lodash.com/
-- Compass Bones responsive framework. Use the compass project file and /scss folder and customize as required.
+- Compass Bones responsive framework. Use the compass project file, /css & /scss folder and customize as required.
 
 JQuery example:
 
