@@ -1,6 +1,10 @@
 ieresponsify
 ============
 
+How it works:
+
+- It simply adds/removes a class to the body tag based on the browsers width. The resize is debounced via the lodash framework. Modernizr is used to apply the class as required.
+
 Supported Viewports:
 
 - If is above or equal to 768px
