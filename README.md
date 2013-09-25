@@ -1,6 +1,12 @@
 ieresponsify
 ============
 
+Supported Viewports:
+
+- If is above or equal to 768px
+- If is above or equal to 1030px
+- If is above or equal to 1240px
+
 Requirements:
 
 - JQuery
